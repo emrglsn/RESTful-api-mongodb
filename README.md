@@ -12,7 +12,7 @@ Support :
 If you have any questions, suggestions, or feedback, please open an issue on GitHub.
 
 License :
-This project is licensed under the MIT License. Please see the license file for more information.
+This project is licensed under the MIT License. 
 
 Example video :
 https://github.com/emrglsn/RESTful-api-mongodb/assets/111822941/a39318c6-369b-4f3d-8fa9-fda00aa75fc6
