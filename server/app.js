@@ -10,7 +10,7 @@ app.use(cors())
 
 app.use("/api/v1",EmployeeRouter)
 
-mongoose.connect("mongodb+srv://emirglsn191:emirglsn191@cluster0.i9btiet.mongodb.net/mongodbrest?retryWrites=true&w=majority")
+mongoose.connect("mongodb+srv://................@cluster0.i9btiet.mongodb.net/mongodbrest?retryWrites=true&w=majority")
 
 app.listen( 3000 , ()=>{
     console.log("server running on 3000");
